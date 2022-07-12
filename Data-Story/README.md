@@ -26,6 +26,7 @@
 ## 🛠️我们将用到的工具
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-3.8-brightgreen"> <img src="https://img.shields.io/badge/Numpy-1.22-brightgreen"> <img src="https://img.shields.io/badge/Scipy-1.8.1-brightgreen"> <img src="https://img.shields.io/badge/Matplotlib-3.5.1-brightgreen">
+<img src="https://img.shields.io/badge/Pandas-1.2.0-brightgreen"><img src="https://img.shields.io/badge/Pandas-1.2.0-brightgreen">
 </p>
   
 ## 🧑‍💻贡献者
